@@ -25,9 +25,8 @@ to O(n) instead O(n^2).
 
 I solved this using Python dictionaries. first, i initalize an empty dicionary.
 Then, in a single for loop, i called y the targetSum (te number that we want to verify if
-it exists in the array) subtracted to the current value in the dictionary. If this value (y)
-are not in the dictionary we append it into the dicionary, otherwise, we return the pair that
-reach the targetSum. This reduces the complexity from O(n^2) to O(n) because now we have only
+it exists in the array) subtracted to the current value in the array that we were iteracting. If this value (y)
+are not in the dictionary we append the current value from the vector into the dicionary, otherwise, we return the pair that reach the targetSum. This reduces the complexity from O(n^2) to O(n) because now we have only
 a single for loop, so in the worst case we'll only do n interactions :smiley:. Furthermore, the step to verify
 if a value exists in a dictionary is an operation that, in terms of time complexity is O(1).:smiley::smiley::smiley:
 
