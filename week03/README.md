@@ -8,13 +8,13 @@ return then in an array, in any order.
 If no two numbers sum up to the target sum, 
 the function should return an empty array.
 
-Parameters:
+- Parameters:
 array <list>: list of integers
 targetSum <integer>: integer representing a target sum
-
-Return:
+- Return:
 Interger pair which sum is equal to targetSum
 empty otherwise
+
 ---
 
 In the [original solution](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/twonumbersum.ipynb), 
