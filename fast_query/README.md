@@ -14,6 +14,8 @@ The things that we're done in this project are:
 
 At the end of this projects, we can see how powerfull is use python dictionaries for the third item. Without dictionaries, it takes near two minutes to verify 100 random sum target values, but using dictionaries, it is almost instantaneous!!!
 
+You can see my solution [here](https://github.com/pelean2812/DCA0209_Datastructure_II/blob/main/fast_query/fast_query.ipynb).
+
 ## Group
 - Pedro Leandro Batista Marques
 - Efrain Marcelo Pulgar Pantaleon
