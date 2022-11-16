@@ -23,6 +23,8 @@ A resolução e códigos envolvendo todas as analises podem ser encontradas aqui
 
 ## Explicações
 
+**Para uma melhor visualização do trabalho e imagens, use o tema claro do GitHub**
+
 Em nosso trabalho, primeiro fizemos a transformação do dataset air_traffic em um grafo utilizando da biblioteca do 
 [networkx](https://networkx.org/).Trabalharemos com o grafo e nós pelo resto do trabalho.
 
